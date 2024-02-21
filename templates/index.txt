@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>Nicole Frontend</h1>
+
+</body>
+</html>
